@@ -23,6 +23,7 @@ JDK는 자바 개발키드의 약자로 개발자들이 자바로 개발하는�
 JDK 안에는 Java 개발 시 필요한 라이브러리와, javac, javadoc 등의 개발 도구들을 포함하며, 앞서 말한 JRE도 함께 포함되어 있다.
 
 아래 그림과 같이 JDK는 JVM, JRE를 모두 포함하며, 이외에도 Java 개발에 필요한 Development Tools를 포함한다.
+
 ![](./img/JDK.png)
 
 
